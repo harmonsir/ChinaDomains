@@ -26,6 +26,7 @@ _https._tcp.mirrors.tuna.tsinghua.edu.cn
 7pd.cn
 89e1do3saibtsfv759r63jacsq8i3uuchlnnjirm6nffbhsr9b5fusbb.weilayun.com
 8hk7t4d20d5ifpqih5g6ke2mgvktdhf0on2q3egrk7brajo5cedfvlnk.weilayun.com
+96cpbsvbbb5lk5q8tgdv9eq779drabfkujeqmg7us3nvcbudlhjvuvkg.qc.bsccdn.net
 a-hl.mi.com
 a.hire66.com
 a.lagou.com
@@ -325,6 +326,7 @@ cdn-www.cnblogs.com
 cdn.51cto.com
 cdn.ampproject.org
 cdn.ark.qq.com
+cdn.bootcdn.net
 cdn.cnbj1.fds.api.mi-img.com
 cdn.dcloud.net.cn
 cdn.exp.xiaomi.com
@@ -766,6 +768,7 @@ image.jiqizhixin.com
 image.mybank.icbc.com.cn
 image01.joying.com
 images.mhealth100.com
+imap.mxhichina.com
 img-blog.csdnimg.cn
 img-home.csdnimg.cn
 img.300hu.com
@@ -906,15 +909,21 @@ lbsgw.m.jd.com
 le3-api.game.bilibili.com
 lelch.mammasay.com
 lf1-cdn-tos.bytegoofy.com
+lf1-cdn-tos.bytescm.com
 lf13-webcast-cdn-tos-ncdn.bytegecko.com
 lf26-tt-cdn-tos.bytegecko.com
 lf3-article.toutiaostatic.com
 lf3-cdn-tos.bytecdntp.com
+lf3-cdn-tos.bytescm.com
+lf3-material.searchpstatp.com
+lf3-search.searchpstatp.com
 lf3-short.ibytedapm.com
+lf3-static.bytednsdoc.com
 lf3-tt-cdn-tos.bytegecko.com
 lf5-article.toutiaostatic.com
 lf6-cdn-tos.bytegecko.com
 lf9-cdn-tos.bytegecko.com
+lf9-static.bytednsdoc.com
 lf9-webcast-cdn-tos-ncdn.bytegecko.com
 lhp.map.qq.com
 license.vod2.myqcloud.com
@@ -1128,6 +1137,11 @@ p216-fmf.icloud.com.cn
 p216-fmfmobile.icloud.com.cn
 p216-fmipmobile.icloud.com.cn
 p216-quota.icloud.com.cn
+p3-ad-sign.byteimg.com
+p3-img.searchpstatp.com
+p3-iz-e-sign.byteimg.com
+p3-search.byteimg.com
+p3-tt-video-sprite-sign.byteimg.com
 p3.music.126.net
 p4.music.126.net
 p44-availability.icloud.com.cn
@@ -1136,6 +1150,7 @@ p52-keyvalueservice.icloud.com.cn
 p52-mobilebackup.icloud.com.cn
 p52-sharedstreams.icloud.com.cn
 p6.music.126.net
+p9-tt-video-sprite-sign.byteimg.com
 p9hp21.vt.jinke.icu
 page.amap.com
 pages.xiaohongshu.com
@@ -1244,6 +1259,7 @@ s1.cn.bing.net
 s1.hdslb.com
 s1.pstatp.com
 s2.51cto.com
+s3-wt-blog.worktile.com
 s3.51cto.com
 s3.cn-north-1.jdcloud-oss.com
 s3a.pstatp.com
@@ -1494,6 +1510,7 @@ whoami.akamai.net
 wiki5.baike.com
 wl.jd.com
 wlogin.m.jd.com
+worktile.com
 worldgz.photo.store.qq.com
 wp.mail.qq.com
 wp.qiye.qq.com
