@@ -1,4 +1,3 @@
-
 _https._tcp.mirrors.tuna.tsinghua.edu.cn
 0.asia.pool.ntp.org
 0.cn.pool.ntp.org
@@ -963,6 +962,8 @@ lagou.com
 lagou-zhaopin-fe.lagou.com
 launchwxacode.wxqcloud.qq.com.cn
 layout.meituan.net
+lb-ggo5eaff-6ywcj2b09gmfoips.clb.ap-shanghai.tencentclb.com
+lb-pwathip1-ogfy9al7jmvtke4r.clb.ap-shanghai.tencentclb.com
 lbs.map.qq.com
 lbs.netease.im
 lbs6.map.qq.com
@@ -985,6 +986,7 @@ lf3-static.bytednsdoc.com
 lf3-tt-cdn-tos.bytegecko.com
 lf5-article.toutiaostatic.com
 lf6-cdn-tos.bytegecko.com
+lf6-sec.bytetos.com
 lf9-cdn-tos.bytegecko.com
 lf9-static.bytednsdoc.com
 lf9-webcast-cdn-tos-ncdn.bytegecko.com
@@ -1018,6 +1020,8 @@ link-sx18.netease.im
 link-yqsx01.netease.im
 link-yqsx02.netease.im
 link-yqsx03.netease.im
+lite-superant.antgroup.com
+live10-adapt.pddpic.com
 liventp.jd.com
 lk8ek9dpkslusinqo9ud6u6v9eujb7v2lvtu9roc8ouji2n4eqrfubvg.weilayun.com
 lkcoffee.com
@@ -1035,6 +1039,7 @@ long.wxagame.weixin.qq.com
 longcloud.weixin.com
 lp.open.weixin.qq.com
 luckincoffeecdn.com
+lwlog.laiwang.com
 lxcdp.vitasoy-chn.com
 m.10jqka.com.cn
 m.360buyimg.com
@@ -1069,6 +1074,7 @@ m8.music.126.net
 m801.music.126.net
 ma3-normal-lf.zijieapi.com
 ma5-normal-lf.zijieapi.com
+maavatar1.meitudata.com
 magzineimg.nearme.com.cn
 mail.qq.com
 main.123ths.com
@@ -1085,6 +1091,7 @@ match.p4p.1688.com
 material.istreamsche.com
 mazu.m.qq.com
 mbank.nanhaibank.com
+mbd.n.shifen.com
 mbmodulecdn.cmbimg.com
 mbmodulecdn.cmbimg.com.queniukt.com
 mbmodule-mainopenapi.paas.cmbchina.com
